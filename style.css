@@ -1,13 +1,13 @@
 :root {
-    --primary-color: #2C3E50;
-    --secondary-color: #3498DB;
-    --accent-color: #E74C3C;
-    --success-color: #2ECC71;
-    --warning-color: #F1C40F;
-    --background-color: #F8FAFC;
-    --text-color: #2C3E50;
-    --card-background: #FFFFFF;
-    --transition: all 0.3s ease;
+    --primary-color: #0287e8; /* Main blue color used in the design */
+    --secondary-color: #ff69b4; /* Pink color used in the logo (LungCare) */
+    --accent-color: #ff4757; /* Red accent for warnings or highlights */
+    --success-color: #2ecc71; /* Green for success messages */
+    --warning-color: #f1c40f; /* Yellow for warnings */
+    --background-color: #f8f9fa; /* Light background color */
+    --text-color: #2c3e50; /* Dark text color for readability */
+    --card-background: #ffffff; /* White background for cards and sections */
+    --transition: all 0.3s ease; /* Smooth transition for animations */
 }
 
 * {
