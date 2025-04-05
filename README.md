@@ -28,3 +28,7 @@ This project is a web application designed to raise awareness about brain tumors
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Rudramani1/Brain-Tumor-Analysis.git
+
+
+
+[![Watch Demo](./thumbnail.png)](https://drive.google.com/file/d/1Pgj9zV-61x7K8kFtuykCV1mtoxIsI0fo/view?usp=sharing)
