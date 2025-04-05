@@ -31,4 +31,4 @@ This project is a web application designed to raise awareness about brain tumors
 
 
 
-[![Watch Demo](./thumbnail.png)](https://drive.google.com/file/d/1Pgj9zV-61x7K8kFtuykCV1mtoxIsI0fo/view?usp=sharing)
+[![Watch Demo](./Thumbnail.png)](https://drive.google.com/file/d/1Pgj9zV-61x7K8kFtuykCV1mtoxIsI0fo/view?usp=sharing)
